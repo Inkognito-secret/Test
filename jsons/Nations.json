@@ -2,9 +2,9 @@
 	{
 		"name": "Bavaria",
 		"leaderName": "Till ledaman",
-		"adjective": ["..."],
+		"adjective": ["Beer!!"],
 		"startBias": ["Wine"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hello there",
 		
