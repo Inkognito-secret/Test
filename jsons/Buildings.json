@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
+		"name": "Bavarian beer",
+		"replaces": "garden",
 		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
+		"cost":120 ,
+		"happiness": 2,
+		"culture": 4,
+		"science": 0,
 		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"isNationalWonder": false,
+		"requiredBuildingInAllCities": "none",
+		"requiredTech": "The Wheel"
 	},
 	{
 		"name": "Breeders",
