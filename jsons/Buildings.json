@@ -3,13 +3,12 @@
 		"name": "Bavarian beer",
 		"replaces": "garden",
 		"uniqueTo": "Bavaria",
-		"cost":120 ,
+		"cost":120,
+		"hurryCostModifier":120, 
 		"happiness": 2,
 		"culture": 4,
-		"science": 0,
+		"science": -1,
 		"maintenance": 2,
-		"isNationalWonder": false,
-		"requiredBuildingInAllCities": "none",
 		"requiredTech": "The Wheel"
 	},
 	{
