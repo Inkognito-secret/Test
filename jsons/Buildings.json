@@ -2,12 +2,12 @@
 	{
 		"name": "Bavarian beer",
 		"replaces": "garden",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Bavaria",
 		"cost":120 ,
 		"happiness": 2,
 		"culture": 4,
 		"science": 0,
-		"maintenance": 96,
+		"maintenance": 2,
 		"isNationalWonder": false,
 		"requiredBuildingInAllCities": "none",
 		"requiredTech": "The Wheel"
