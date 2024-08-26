@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Bavarian beer",
-		"replaces": "garden",
+		"replaces": "Garden",
 		"uniqueTo": "Bavaria",
 		"cost":120,
 		"hurryCostModifier":120, 
