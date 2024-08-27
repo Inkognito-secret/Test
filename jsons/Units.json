@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Archery",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Bavaria",
 		"replaces": "Archer",
 		"movement": 2,
 		"strength": 8,
