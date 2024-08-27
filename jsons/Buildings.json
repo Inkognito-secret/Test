@@ -7,7 +7,6 @@
 		"hurryCostModifier":120, 
 		"happiness": 2,
 		"culture": 4,
-		"science": -1,
 		"maintenance": 2,
 		"requiredTech": "Theology"
 	}
