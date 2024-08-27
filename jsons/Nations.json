@@ -26,7 +26,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"uniqueName": "Power of beer"
-
+		"uniques": ["May not annex cities"]
 		"outerColor": [10,40,29],
 		"innerColor": [25,10,300],
 		"cities": ["Newada","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
