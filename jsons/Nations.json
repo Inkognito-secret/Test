@@ -26,7 +26,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"uniqueName": "Power of beer"
-		"uniques": ["Starts with [Archery]"]
+		"uniques": ["Starts with [Archery]"],
 		"outerColor": [160,160,160],
 		"innerColor": [160,160,160],
 		"cities": ["Newada","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
