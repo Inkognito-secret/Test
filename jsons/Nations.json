@@ -27,8 +27,8 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"uniqueName": "Power of beer"
 		"uniques": ["Gain a free [Bavarian beer] [in all cities] <with [10]% chance>"], 
-		"outerColor": [10,40,29],
-		"innerColor": [25,10,300],
+		"outerColor": [160,160,160],
+		"innerColor": [160,160,160],
 		"cities": ["Newada","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
