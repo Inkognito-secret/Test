@@ -26,7 +26,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"uniqueName": "Power of beer"
-		"uniques": ["+[95]% tile improvement construction time","City-State territory always counts as friendly territory"], 
+		"uniques": ["+[95]% tile improvement construction time","City-State territory always counts as friendly territory","Borrows city names from other civilizations in the game"], 
 		"outerColor": [160,160,160],
 		"innerColor": [160,160,160],
 		"cities": ["Newada","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
