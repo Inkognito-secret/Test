@@ -1,18 +1,1 @@
-[
-	{
-		{
-		"name": "Spearman",
-		"unitType": "Scrapper",
-		"movement": 2,
-		"strength": 20,
-		"cost": 50,
-		"upgradesTo": "Militia",
-		"hurryCostModifier": 20,
-		"obsoleteTech": "Rifling",
-		"uniques": [
-			"Low Tech",
-			"[+50]% Strength <vs [Mounted] units>"
-		],
-		"attackSound": "nonmetalhit"
-	}, 
-]
+
