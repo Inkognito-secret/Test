@@ -10,6 +10,7 @@
 		"range": 1,
 		"cost": 50,
 		"requiredTech": "The Wheel",
+		"obsoleteTech": "Rifling"
 		"promotions": ["Barrage I","Accuracy I"],
 		"attackSound": "phasers"
 	}
