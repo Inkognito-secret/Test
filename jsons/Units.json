@@ -6,8 +6,6 @@
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 17,
-		"rangedStrength": 17,
-		"range": 1,
 		"cost": 50,
 		"requiredTech": "The Wheel",
 		"obsoleteTech": "Rifling"
