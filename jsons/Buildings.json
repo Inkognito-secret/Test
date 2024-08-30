@@ -1,13 +1,12 @@
 [
 	{
 		"name": "Opolchenie",
-		"replaces": "Barracks",
-		"uniqueTo": "Free Cites",
-		"cost":50,
-		"hurryCostModifier":50, 
-		"happiness": 0,
-		"culture": 0,
+		"hurryCostModifier": 25,
+		"cost": 50,
 		"maintenance": 1,
-		"requiredTech": "The Wheel"
+		"uniques": [
+			"New [Military] units start with [15] Experience [in this city]",
+			"Destroyed when the city is captured"
+	
 	}
 ]
