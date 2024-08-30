@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Opolchenie",
+		"replaces": "Barracks",
 		"hurryCostModifier": 25,
 		"cost": 50,
 		"maintenance": 1,
