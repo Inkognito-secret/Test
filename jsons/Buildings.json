@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Bavarian beer",
-		"replaces": "Garden",
-		"uniqueTo": "Bavaria",
-		"cost":120,
-		"hurryCostModifier":120, 
-		"happiness": 2,
-		"culture": 4,
-		"maintenance": 2,
-		"requiredTech": "Theology"
+		"name": "Opolchenie",
+		"replaces": "Barracks",
+		"uniqueTo": "Free Cites",
+		"cost":50,
+		"hurryCostModifier":50, 
+		"happiness": 0,
+		"culture": 0,
+		"maintenance": 1,
+		"requiredTech": "Agriculture"
 	}
 ]
