@@ -1,15 +1,15 @@
 [
 	{
-		"name": "Beermen",
+		"name": "Opolchenets",
 		"unitType": "Archery",
-		"uniqueTo": "Bavaria",
-		"replaces": "Archer",
+		"uniqueTo": "Free Cites",
+		"replaces": "Spearman",
 		"movement": 2,
-		"strength": 8,
-		"rangedStrength": 8,
-		"range": 2,
+		"strength": 17,
+		"rangedStrength": 17,
+		"range": 1,
 		"cost": 50,
-		"requiredTech": "Archery",
+		"requiredTech": "Agriculture",
 		"promotions": ["Barrage I","Accuracy I"],
 		"attackSound": "phasers"
 	}
