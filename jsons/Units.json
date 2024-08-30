@@ -8,7 +8,7 @@
 		"strength": 17,
 		"cost": 50,
 		"requiredTech": "The Wheel",
-		"obsoleteTech": "Rifling"
+		"obsoleteTech": "Rifling",
 		"uniques": ["Low Tech","[+50]% Strength <vs [Mounted] units>"], 
 		"attackSound": "nonmetalhit"
 	}
