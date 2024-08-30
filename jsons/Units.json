@@ -1,15 +1,19 @@
 [
 	{
+		
 		"name": "Opolchenets",
 		"unitType": "Scrapper",
-		"uniqueTo": "Free Cites",
-		"replaces": "Spearman",
 		"movement": 2,
-		"strength": 17,
+		"strength": 20,
 		"cost": 50,
-		"requiredTech": "The Wheel",
+		"upgradesTo": "Militia",
+		"hurryCostModifier": 20,
 		"obsoleteTech": "Rifling",
-		"uniques": ["Low Tech","[+50]% Strength <vs [Mounted] units>"],
-		"attackSound": "nonmetalhit",
+		"uniques": [
+			"Low Tech",
+			"[+50]% Strength <vs [Mounted] units>"
+		],
+		"attackSound": "nonmetalhit"
+	
 	}
 ]
