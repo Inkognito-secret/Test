@@ -1,7 +1,7 @@
 [
 	{
-		
-		"name": "Opolchenets",
+		{
+		"name": "Spearman",
 		"unitType": "Scrapper",
 		"movement": 2,
 		"strength": 20,
@@ -14,6 +14,5 @@
 			"[+50]% Strength <vs [Mounted] units>"
 		],
 		"attackSound": "nonmetalhit"
-	
 	}
 ]
