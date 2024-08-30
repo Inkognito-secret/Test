@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Opolchenets",
-		"unitType": "Archery",
+		"unitType": "Scrapper",
 		"uniqueTo": "Free Cites",
 		"replaces": "Spearman",
 		"movement": 2,
@@ -9,7 +9,7 @@
 		"rangedStrength": 17,
 		"range": 1,
 		"cost": 50,
-		"requiredTech": "Agriculture",
+		"requiredTech": "The Wheel",
 		"promotions": ["Barrage I","Accuracy I"],
 		"attackSound": "phasers"
 	}
